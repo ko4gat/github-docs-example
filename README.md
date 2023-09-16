@@ -122,6 +122,9 @@ Gthub extends the functionality of Markdown taables to provide more alignment an
 
 ![Pipe Key](https://github.com/ko4gat/github-docs-example/assets/144299220/b5caf8f6-baed-4ab6-8ba7-4d6238d40a67)
 
+
+[Secret Window Hidden Garden](Secret-Window/Hidden-Garden.md)
+
 ## References
 
 -[Github Flavored Markdown Spec](https://github.github.com/gfm/) <sup> [1]</sup>
