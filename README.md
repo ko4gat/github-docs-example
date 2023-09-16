@@ -1,6 +1,21 @@
 # github-docs-example
+## Step 1 - How to take screenshots
 
-## Step 1 - Using Codeblocks.
+A screenshot is when you capture a part of your screen from your laptop, desktop, or phone. 
+
+This is not to be confused with taking a photo with your phone.
+
+**DON'T DO THIS**
+
+![What not to do](https://github.com/ko4gat/github-docs-example/assets/144299220/e87f77a2-380f-4446-b1bc-a13581ccb47f)
+
+Do this instead.
+
+<img width="600" alt="screenshot shortcuts" src="https://github.com/ko4gat/github-docs-example/assets/144299220/2423217b-68a7-43dd-94a9-bf373fcb25a9">
+
+
+
+## Step 2 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code.
 A good __Cloud Engineer__ uses Codeblocks whenever possible.
@@ -47,11 +62,11 @@ try:
 except ValueError:
     print("Invalid input. Please enter a valid integer.")
 ```
--Make note of where the backtick button is located.
+-Make note of where the backtick keyboard key is located.
 
 -It should appear above the tab key, but it may vary based on your keyboard layout.
 
- <img width="200px" src="https://github.com/ko4gat/github-docs-example/assets/144299220/bad64dd6-b718-4867-81f5-51391b9742be" />
+![Photo of backtick key](assets/Backtick-Key.jpg)
 
 -Good Cloud Engineers use codeblocks for both code and errors that appear in the console.
 
@@ -67,8 +82,10 @@ Error: invalid literal for int() with base 10: 'abc'
 Github extends markdown to have a list where you can check off items. [<sup>[3]</sup>](#references)
 
 - [x] Finish Step 1
-- [ ] Finish Step 2
-- [ ] Finish Step 3
+- [x] Finish Step 2
+- [x] Finish Step 3
+- [x] Finish Step 4
+- [x] Finish Step 5
 
 # Step 4- Use Emojis (Optional)
 
@@ -98,6 +115,10 @@ You can use the following markdown format to create tables:
 ```
 
 Gthub extends the functionality of Markdown taables to provide more alignment and table cell formatting options. <sup>5</sup>
+
+-Make note of where the pipe keyboard key is located.
+
+-It should appear above the enter key, but it may vary based on your keyboard layout.
 
 ![Pipe Key](https://github.com/ko4gat/github-docs-example/assets/144299220/b5caf8f6-baed-4ab6-8ba7-4d6238d40a67)
 
